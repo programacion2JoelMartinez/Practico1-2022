@@ -3,7 +3,8 @@ package ejer2;
 public class Main {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		Programa miProg2=new Programa();
+		miProg2.iniciar();
 
 	}
 
